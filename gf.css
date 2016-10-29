@@ -1,15 +1,16 @@
+
 body {
     font-family: arial, times, serif;
     background-image: url("https://s-media-cache-ak0.pinimg.com/736x/e2/30/f5/e230f59a5922574a0731061323b3a41d.jpg");
 }
 .container {
     background-color: antiquewhite;
-    padding: 20px;
+    
 }
 
 img {
-    width:500px;
-    height:300px;
+    width: 425px;
+    height: 250px;
 }
 
 #about {
@@ -35,4 +36,13 @@ img {
     padding-top: 10px;
     padding-left: 10px;
     padding-right: 10px;
+}
+
+p {
+    font-size: 21px;
+}
+
+iframe {
+    width: 425px;
+    height: 250px;
 }
