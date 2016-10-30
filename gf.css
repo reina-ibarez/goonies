@@ -1,15 +1,15 @@
-
 body {
     font-family: arial, times, serif;
     background-image: url("https://s-media-cache-ak0.pinimg.com/736x/e2/30/f5/e230f59a5922574a0731061323b3a41d.jpg");
 }
 .container {
     background-color: antiquewhite;
-    
+    padding: 20px;
+    margin-top: 20px;
 }
 
 img {
-    width: 425px;
+    width: 500px;
     height: 250px;
 }
 
@@ -43,6 +43,74 @@ p {
 }
 
 iframe {
-    width: 425px;
+    width: 500px;
     height: 250px;
+}
+
+.heading {
+    text-align:center;
+    background-color: antiquewhite;
+    padding: 10px;
+    margin-bottom: 10px;
+    
+}
+h1 {
+    font-size: 50px;
+}
+
+.footer {
+   text-align: center;
+    background-color: antiquewhite;
+    margin-top: 10px;
+}
+
+ul {
+    background-color: antiquewhite;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+li {
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+span {
+    background-color: antiquewhite;
+    margin-top: 10px;
+}
+
+#chunk {
+    padding-bottom: 20px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#kid {
+    padding-bottom: 20px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#chance {
+    padding-bottom: 20px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#this {
+    padding-bottom: 20px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#sloth {
+   padding-bottom: 20px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
 }
